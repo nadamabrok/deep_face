@@ -1,5 +1,5 @@
 # Human Emojis - Emotion Detection App
-
+![alt text](image.png)
 A professional Streamlit web application for real-time emotion detection from images and videos using [DeepFace](https://github.com/serengil/deepface).
 
 ---
